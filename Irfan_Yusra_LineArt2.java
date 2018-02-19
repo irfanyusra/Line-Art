@@ -1,6 +1,6 @@
 //Name: Yusra Irfan
 //Date: April 3, 2016
-//The "Irfan_Yusra_LineArt2" class.
+//The "Irfan_Yusra_LineArt" class.
 import java.awt.*;
 import hsa.Console;
 
